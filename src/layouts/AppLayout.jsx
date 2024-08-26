@@ -11,7 +11,7 @@ const AppLayout = () => {
           <Outlet/>
         </main>
         <div className='p-10 text-center bg-grey-800 mt-10'>
-          Made with 💗 by Abdul Rouf Shaik.
+          Made with 💗 by Abdul Rouf Shaik
         </div>
     </div>
   )
