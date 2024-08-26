@@ -10,7 +10,7 @@ import PostJob from "./pages/PostJob";
 import SavedJobs from "./pages/SavedJobs";
 import MyJobs from "./pages/MyJobs";
 import { ThemeProvider } from "@/components/theme-provider";
-import ProtectedRoute from "./components/protectedRoute";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 const router = createBrowserRouter([
   {
